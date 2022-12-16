@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cute-cats/static/css/main.438c8cf7.css",
+    "main.js": "/cute-cats/static/js/main.c1ebeaa4.js",
+    "static/js/787.85be35d2.chunk.js": "/cute-cats/static/js/787.85be35d2.chunk.js",
+    "index.html": "/cute-cats/index.html",
+    "main.438c8cf7.css.map": "/cute-cats/static/css/main.438c8cf7.css.map",
+    "main.c1ebeaa4.js.map": "/cute-cats/static/js/main.c1ebeaa4.js.map",
+    "787.85be35d2.chunk.js.map": "/cute-cats/static/js/787.85be35d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.438c8cf7.css",
+    "static/js/main.c1ebeaa4.js"
+  ]
+}
