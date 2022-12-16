@@ -8,5 +8,6 @@ export async function getRandomCat(): Promise<Object> {
     }
 
     let result = response.json()
+    console.log(result);
     return result;
 }
